@@ -6,6 +6,4 @@ CI/CD
 Git
 GitHub
 Google
-Jenkins
-Spring_boot
 Added a new skill to create a version
